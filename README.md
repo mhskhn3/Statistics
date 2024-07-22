@@ -1,1 +1,3 @@
-# Statistics
+# Unlocking Insights: Descriptive Statistics with the Ames Housing Dataset
+
+Explore the transformative power of descriptive statistics with the Ames Housing dataset. This comprehensive guide delves into the fundamental concepts of central tendency, dispersion, and shape, providing key metrics and their interpretations. Discover how to simplify complexity, aid data exploration, and create data-driven narratives through visualizations. Learn to compute essential statistical measures and visualize them using histograms and box plots, revealing intricate patterns and insights in Ames' housing prices. Whether you're a beginner or looking to refresh your knowledge, this guide is your gateway to mastering descriptive statistics in data science.
